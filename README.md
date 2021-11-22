@@ -1,4 +1,4 @@
-# lxi
+# evil
 
 <p align="center">
   <a href="https://github.com/evills">
