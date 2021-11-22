@@ -1,16 +1,24 @@
-### Hi there 👋
+# lxi
 
-<!--
-**evills/evills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/evills">
+    <img src="https://discord.c99.nl/widget/theme-5/859565244602515457.png"/>
+     </a>
+</p>
 
-Here are some ideas to get you started:
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=evills&layout=compact&theme=dark) 
+</br>
+![stats](https://github-readme-stats.vercel.app/api?username=evills&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+evil#0957 - Discord </br>
+soon - Telegram </br>
+soon - Instagram </br>
+
+# evil on a spree
+<p align="center">
+  <a href="https://github.com/evills">
+    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
+     </a>
+</p>
