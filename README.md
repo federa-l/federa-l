@@ -24,3 +24,9 @@ soon - Instagram </br>
     <img src="https://cdn.discordapp.com/attachments/841445020837478400/903428387517890561/3d59f58e1c1b923f6b9d3f3c155d6bf9.gif"/>
      </a>
 </p>
+  
+## Goals
+
+- [] Get a new PC
+- [] Fully learn Python
+- [] Make a roblox script
