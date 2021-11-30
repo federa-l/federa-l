@@ -6,6 +6,12 @@
      </a>
 </p>
 
+
+</p>
+<p align="center">  
+  <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
+</p>
+
 # Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=evills&layout=compact&theme=dark) 
 </br>
