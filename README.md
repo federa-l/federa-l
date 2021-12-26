@@ -1,7 +1,7 @@
-# evil
+# Uirus
 
 <p align="center">
-  <a href="https://github.com/evills">
+  <a href="https://github.com/uiruss">
     <img src="https://discord.c99.nl/widget/theme-4/859565244602515457.png"/>
      </a>
 </p>
