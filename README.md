@@ -18,7 +18,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=federa-l&show_icons=true&theme=dark)
 
 # Contact
-evil#0957 - Discord </br>
+rockstar#1800 - Discord </br>
 
 soon - Telegram </br>
 soon - Instagram </br>
