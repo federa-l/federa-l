@@ -1,4 +1,4 @@
-# Uirus
+# Rockstar
 
 <p align="center">
   <a href="https://github.com/federa-l">
