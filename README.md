@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/federa-l">
-    <img src="https://discord.c99.nl/widget/theme-5/859565244602515457.png"/>
+    <img src="https://discord.c99.nl/widget/theme-1/859565244602515457.png"/>
      </a>
 </p>
 
