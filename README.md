@@ -19,9 +19,8 @@
 
 # Contact
 rockstar#1800 - Discord </br>
-
-soon - Telegram </br>
-soon - Instagram </br>
+@rockstarkillingshit - Telegram </br>
+@rockstarkillingshit - Instagram </br>
 
 # evil on a spree
 <p align="center">
